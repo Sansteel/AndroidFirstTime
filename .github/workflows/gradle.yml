@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ master, main, Игры_с_кнопкой ]
   pull_request:
-    branches: [ master, main ]
+    branches: [ master, main, Игры_с_кнопкой ]
 
 jobs:
   build:
