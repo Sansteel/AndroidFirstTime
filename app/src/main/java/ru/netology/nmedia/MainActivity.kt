@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun onMyClick(view: View) {
-        Toast.makeText(applicationContext, "Click", Toast.LENGTH_LONG).show();
+        Toast.makeText(applicationContext, "SUPER", Toast.LENGTH_LONG).show();
 
     }
 }
